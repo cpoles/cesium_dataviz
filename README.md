@@ -2,4 +2,4 @@
 
 PROOF OF CONCEPT
 
-3D Geospatial Data Visualisation Graduation Project using the Cesium.js Library
+3D Geospatial Data Visualisation Project using the Cesium.js Library
